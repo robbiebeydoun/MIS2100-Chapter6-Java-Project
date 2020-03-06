@@ -6,6 +6,11 @@ double divide(double numerator, double denominator) {
 		throw new ArithmeticException();
 	}
 	return numerator / denominator;
+	
+	double multiply(double numberOne, double numberTwo) {
 		
+	}
+	
+	return numberOne * numberTwo;
 }
 }
